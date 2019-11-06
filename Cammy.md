@@ -1,7 +1,7 @@
 # Cameron McNeill
 
-*BBQ base
-*Cheese
-*Toppings
-  *Chicken
-  *Ham
+* BBQ base
+* Cheese
+* Toppings
+  * Chicken
+  * Ham
